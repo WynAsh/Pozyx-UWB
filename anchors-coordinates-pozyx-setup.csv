@@ -1,0 +1,5 @@
+id;hexId;x;y;z;ip;mac;chain info;neighbors;hardware;firmware;warnings;labels;in use;presence only;colors
+4415;0x113f;-4230;8460;1420;;;;3;0x2;0x23;;;true;false;
+4420;0x1144;0;0;1420;;;;3;0x2;0x23;;;true;false;
+4423;0x1147;-4230;0;1420;;;;3;0x2;0x23;;;true;false;
+4469;0x1175;0;8460;1420;;;;3;0x2;0x23;;;true;false;
